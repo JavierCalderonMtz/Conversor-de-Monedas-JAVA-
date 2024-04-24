@@ -5,9 +5,9 @@ Este programa de consola desarrollado en Java tiene como función principal la c
 Un conversor de monedas es un software que facilita la conversión rápida y precisa de valores monetarios entre diferentes monedas. Utiliza tasas de cambio actualizadas para calcular el valor equivalente de una moneda en otra, siendo útil para viajeros, comerciantes internacionales y transacciones financieras en múltiples monedas.
 
 <h2>Funciones del Programa</h2>
-<p>
+
 El programa realiza 8 conversiones de monedas las cuales son:
-<\p>
+
 
 <p> 1 - MXN a USD <\p>
 <p> 2 - USD a MXN <\p>
@@ -23,7 +23,7 @@ Cada una toma el valor asignado por el usuario para poder realizar la operacion 
 <\p>
   
 <b> imagen de ejemplo:
-<p>
+
 ![conversorMonedasConsola](https://github.com/JavierCalderonMtz/Conversor-de-Monedas-JAVA-/assets/157148752/d792ae41-a522-45ad-a725-73e2a2a9e8a3)
-</p>
+
 
