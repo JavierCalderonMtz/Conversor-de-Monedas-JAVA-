@@ -7,10 +7,10 @@ Un conversor de monedas es un software que facilita la conversión rápida y pre
 <h2>Funciones del Programa</h2>
 El programa realiza 8 conversiones de monedas las cuales son:
 
-1 - MXN a USD
-2 - USD a MXN
-3 - MXN a EUR
-4 - EUR a MXN
+<p> 1 - MXN a USD <\p>
+<p> 2 - USD a MXN
+<p> 3 - MXN a EUR
+<p> 4 - EUR a MXN
 5 - MXN a JPY
 6 - JPY a MXN
 7 - MXN a ARS
@@ -18,5 +18,8 @@ El programa realiza 8 conversiones de monedas las cuales son:
 
 Cada una toma el valor asignado por el usuario para poder realizar la operacion de conversion.
 
-<b> imagen de ejemplo: <\b>
-![image](https://github.com/JavierCalderonMtz/Conversor-de-Monedas-JAVA-/assets/157148752/cbeec981-3207-45b6-879b-a7086f1d71b3)
+<b> imagen de ejemplo:
+<p>
+  ![image](https://github.com/JavierCalderonMtz/Conversor-de-Monedas-JAVA-/assets/157148752/cbeec981-3207-45b6-879b-a7086f1d71b3)
+</p>
+
