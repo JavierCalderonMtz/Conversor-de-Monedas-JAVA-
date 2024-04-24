@@ -9,14 +9,14 @@ Un conversor de monedas es un software que facilita la conversión rápida y pre
 El programa realiza 8 conversiones de monedas las cuales son:
 
 
-<p> 1 - MXN a USD <\p>
-<p> 2 - USD a MXN <\p>
-<p> 3 - MXN a EUR <\p>
-<p> 4 - EUR a MXN <\p>
-<p> 5 - MXN a JPY <\p>
-<p> 6 - JPY a MXN <\p>
-<p> 7 - MXN a ARS <\p>
-<p> 8 - ARS a MXN <\p>
+<p> 1 - MXN a USD 
+<p> 2 - USD a MXN 
+<p> 3 - MXN a EUR 
+<p> 4 - EUR a MXN 
+<p> 5 - MXN a JPY 
+<p> 6 - JPY a MXN 
+<p> 7 - MXN a ARS 
+<p> 8 - ARS a MXN 
 
 <p>
 Cada una toma el valor asignado por el usuario para poder realizar la operacion de conversion.
